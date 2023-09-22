@@ -1,6 +1,12 @@
 # mix-react-native-mobile
 React Native mobile NPM and demonstration mobile app
 
+<img width="126" alt="image" src="https://github.com/microsoft/NuanceMixReactNativeDemo/assets/131894429/38b11391-3bf0-44f4-98cb-9ad97e64b66a">
+
+<img width="125" alt="image" src="https://github.com/microsoft/NuanceMixReactNativeDemo/assets/131894429/cd39b543-a1ed-412c-bb2d-58da98df7807">
+
+<img width="126" alt="image" src="https://github.com/microsoft/NuanceMixReactNativeDemo/assets/131894429/ab32ee16-9c45-43ea-9291-c587353fa7a9">
+
 # Use google codespaces to develop for iOS and Android with the NuanceMixReactNativeDemo and react-native-nuance-mix
 
 ## You will want to clone the NPM plugin react-native-nuance-mix first so setup access for codespaces to the private repo
